@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc -Wall donut.c -o donut -lm -O1
+gcc donut.c -o donut -lm -O1

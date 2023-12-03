@@ -1,4 +1,6 @@
 /FlameGraph
 /donut
 /perf.data*
-perf.svg
+/perf.svg
+/powertop-output.csv
+/*.s
